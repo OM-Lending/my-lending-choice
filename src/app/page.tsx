@@ -108,7 +108,7 @@ export default function LandingPage() {
                       Current Best Rate
                     </p>
                     <p className="text-4xl font-bold text-brand-secondary">
-                      5.84%
+                      5.18%
                     </p>
                   </div>
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
