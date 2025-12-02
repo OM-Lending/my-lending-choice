@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: "My Lending Choice | Best Loan Rates & Expert Advice",
   description:
     "Find the best rates for home loans, refinancing, and business financing. Expert guidance from My Lending Choice.",
+  icons: {
+    icon: "/logo.jpg",
+    shortcut: "/logo.jpg",
+    apple: "/logo.jpg",
+  },
 };
 
 export default function RootLayout({
